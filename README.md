@@ -15,7 +15,7 @@ This is a "work in progress" repository, and I am still learning. Any contributi
 
 Dataset Tagger:
 
-# Dataset AutoTagger Notebook Setup Guide
+# Dataset AutoTagger Notebook Setup Guide. Original Notebook from [hollowstrawberry](https://github.com/hollowstrawberry/kohya-colab/blob/main/README.md)
 
 The first notebook in this repository is a Dataset AutoTagger. Follow this guide to set it up:
 
